@@ -1,0 +1,81 @@
+#z1 {
+    float: left;
+    height: 700px;
+    width: 200px;
+    border: none;
+}
+
+#z2 {
+    float: right;
+    width: 1110px;
+    height: 700px;
+    border: none;
+
+}
+
+iFrame  {
+    float: left;
+    margin: 0;
+    padding: 0;
+    border: none;
+    width: 1110px;
+    height: 700px
+}
+#a2 {
+    background-color: white;
+    float: right;
+    width: 100%;
+    height: 50px;
+}
+
+a span {
+    font-size: 1.5em;
+    margin-right: 121px;
+}
+
+#a3 {
+    background-color: mediumpurple;
+    float: right;
+    width: 14.29%;
+    height: 10px;
+}
+#a4 {
+    background-color: purple;
+    float: right;
+    width: 14.29%;
+    height: 10px;
+}
+#a5 {
+    background-color: blue;
+    float: right;
+    width: 14.29%;
+    height: 10px;
+}
+#a6 {
+    background-color: green;
+    float: right;
+    width: 14.29%;
+    height: 10px;
+}
+#a7 {
+    background-color: yellow;
+    float: right;
+    width: 14.29%;
+    height: 10px;
+}
+#a8 {
+    background-color: red;
+    float: left;
+    width: 14.26%;
+    height: 10px;
+}
+#a9 {
+    background-color: orange;
+    float: right;
+    width: 14.29%;
+    height: 10px;
+}
+
+.textRight {
+    float: right;
+}
